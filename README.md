@@ -1,6 +1,6 @@
 # ⚡ Settlr — Intelligent Financial Ledger & Debt Settlement System
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Suvesh108%2FSettlr-181717?logo=github)](https://github.com/Suvesh108/Settlr)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-bytebldr%2FSettlr-181717?logo=github)](https://github.com/bytebldr/Settlr)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Settlr is a mathematically strict, real-time financial ledger and group debt settlement platform engineered with Go, PostgreSQL, React 19, Motion, and local-first IndexedDB durability.
